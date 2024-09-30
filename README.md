@@ -30,8 +30,7 @@ Co-authorship networks are widely used to evaluate the quality of scientific lit
 
 
 ## Conteúdo
-1. [Base de dados](Dataset): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
-2. [Análise Exploratória](Análise%20exploratória): Resultados da análise exploratória das bases de dados.
+1. [Base de dados]: Contém as bases de dados com os nós e arestas das redes de coautoria de cada nível de produtividade.
 
 ## Autores 
 <!-- Gabriele de S. Araújo, Jonathan O. Fernandez, Marcelino S. da Silva, Fábio M.F. Lobato -->
@@ -39,25 +38,9 @@ Co-authorship networks are widely used to evaluate the quality of scientific lit
   <tr>
      <td align="center">
       <a href="http://lattes.cnpq.br/2201818644935012">
-        <img src="https://avatars.githubusercontent.com/u/69174689?v=4" width="100px;" alt="Foto da Gabi"/><br>
+        <img src="https://avatars.githubusercontent.com/u/57629887?v=4" width="100px;" alt="Foto do Fernando"/><br>
         <sub>
-          <b>Gabriele S. Araújo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="http://lattes.cnpq.br/8316643293931169">
-        <img src="https://avatars.githubusercontent.com/u/88400274?v=4" width="100px;" alt="Foto do John"/><br>
-        <sub>
-          <b>Jonathan Oliveira Fernandez</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="http://lattes.cnpq.br/7080513172499497">
-        <img src="https://media.licdn.com/dms/image/C4E03AQHGeRA-FUzskA/profile-displayphoto-shrink_800_800/0/1574128664118?e=2147483647&v=beta&t=ZfkTWn6Ho_XckQbhpbOVcVe6RMAEkGfEZiHEGgimHxs" width="100px;" alt="Foto do Marcelino"/><br>
-        <sub>
-          <b>Marcelino S. da Silva</b>
+          <b>Fernando Almeida do Carmo</b>
         </sub>
       </a>
     </td>
