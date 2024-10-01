@@ -31,6 +31,7 @@ Co-authorship networks are widely used to evaluate the quality of scientific lit
 
 ## Conteúdo
 1. [Base de dados]: Contém as bases de dados com os nós e arestas das redes de coautoria de cada nível de produtividade.
+2. [Códigos]: Contém os códigos para criação dos arquivos CSVs a partir dos currículos Lattes dos bolsistas e para identificação dos genêros.
 
 ## Autores 
 <!-- Gabriele de S. Araújo, Jonathan O. Fernandez, Marcelino S. da Silva, Fábio M.F. Lobato -->
