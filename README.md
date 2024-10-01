@@ -14,7 +14,7 @@
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém as bases de dados das redes de coautoria do artigo aceito no <br> Symposium on Knowledge Discovery, Mining and Learning (<a href="https://sbsi2024.ufjf.br/](https://bracis.sbc.org.br/2024/kdmile-2024/)">(KDMiLe)</a>), Setembro, 2024, Belém, Pará</h4>
+<h4 align="center">Este repositório contém as bases de dados das redes de coautoria do artigo aceito no <br> Symposium on Knowledge Discovery, Mining and Learning (<a href="(https://bracis.sbc.org.br/2024/kdmile-2024/)">(KDMiLe)</a>), Setembro, 2024, Belém, Pará</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
