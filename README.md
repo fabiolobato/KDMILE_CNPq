@@ -38,7 +38,7 @@ Co-authorship networks are widely used to evaluate the quality of scientific lit
 <table>
   <tr>
     <td align="center">
-      <a href="http://lattes.cnpq.br/2201818644935012">
+      <a href="https://lattes.cnpq.br/0060847588752899">
         <!--<img src="https://avatars.githubusercontent.com/u/57629887?v=4" width="100px;" alt="Foto do Fernando"/><br> -->
         <sub>
           <b>Matheus Couto</b>
